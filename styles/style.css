@@ -126,25 +126,68 @@ nav li a {
 }
 
 /* place sction styles */
-.place{
- 
+.place-container{
+   margin: 100px 100px;  
 }
-.place-content{
-   text-align: center;
-   justify-content: center;
-   
+.row{
+   display: flex;
+   gap: 24px;
 }
-
-.two > .pic{
-   height: 100px;
+.dives{
+   position: relative;
+   left: 35%;
+   bottom: 170px;
+   color: #FFF;
+   font-size: 1.8rem;
+   font-weight: 800;
 }
-
-.three{
-  text-align: center;
+.indo{
+   position: relative;
+   left: 35%;
+   bottom: 170px;
+   color: #FFF;
+   font-size: 1.8rem;
+   font-weight: 800;
 }
-
-.images{
-  text-align: center;
+.sri{
+   position: relative;
+   left: 35%;
+   bottom: 170px;
+   color: #FFF;
+   font-size: 1.8rem;
+   font-weight: 800;
+}
+.north{
+   position: relative;
+   left: 35%;
+   bottom: 170px;
+   color: #FFF;
+   font-size: 1.8rem;
+   font-weight: 800;
+}
+.kashmir{
+   position: relative;
+   left: 35%;
+   bottom: 170px;
+   color: #FFF;
+   font-size: 1.8rem;
+   font-weight: 800;
+}
+.bang{
+   position: relative;
+   left: 35%;
+   bottom: 170px;
+   color: #FFF;
+   font-size: 1.8rem;
+   font-weight: 800;
+}
+.band{
+   position: relative;
+   left: 35%;
+   bottom: 170px;
+   color: #FFF;
+   font-size: 1.8rem;
+   font-weight: 800;
 }
 
 /* choose styles */
@@ -283,6 +326,7 @@ nav li a {
   left: 400px;
 }
 
+ 
 /* footer section styles */
 .footer{
   height: 500px;
