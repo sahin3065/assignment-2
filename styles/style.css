@@ -181,7 +181,8 @@ nav li a {
  border: 1px solid rgba(251, 181, 99, 0.20);
  background: rgba(251, 181, 99, 0.05);
  margin-right: 24px;
- padding-left: 10px;
+ padding-left: 20px;
+ padding-top: 20px;
 }
 .card-content .card-two{
   width: 600px;
@@ -189,7 +190,8 @@ nav li a {
   border-radius: 16px;
   border: 1px solid rgba(41, 206, 246, 0.20);
   background: rgba(41, 206, 246, 0.05);
-  padding-left: 10px;
+  padding-left: 20px;
+  padding-top: 20px;
 }
 .card-content .card-three{
   width: 600px;
@@ -199,8 +201,8 @@ nav li a {
   background: rgba(251, 181, 99, 0.05);
   margin-top: 24px;
   margin-left: 220px;
-  padding-top: 10px;
-  padding-left: 10px;
+  padding-top: 20px;
+  padding-left: 20px;
 }
 
 /* discount section styles */
@@ -277,8 +279,8 @@ nav li a {
   background: #FF5400;
   position: relative;
   transform: rotate(-19.628deg);
-  bottom: 125px  ;
-  left: 407px;
+  bottom: 130px  ;
+  left: 400px;
 }
 
 /* footer section styles */
