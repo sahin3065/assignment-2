@@ -203,6 +203,84 @@ nav li a {
   padding-left: 10px;
 }
 
+/* discount section styles */
+.discount-content{
+  text-align: center;
+  margin-top: 120px;
+}
+.discount-title{
+ color: #131318;
+ font-size: 2.8rem;
+ font-weight: 800;
+}
+
+.discount-text{
+ color: rgba(19, 19, 24, 0.70);
+ font-size: 1rem;
+ font-weight: 400;
+}
+
+/* news section styles */
+.news{
+   margin: 100px 135px;
+}
+.news-content{
+   display: flex;
+   justify-content: space-between;
+}
+.news-form{
+  border-radius: 16px;
+  border: 1px solid #FF5400;
+  margin-right: 12px;
+  height: 435px;
+}
+.news-title{
+   padding-left: 40px;
+   color: #131318;
+   font-size: 1.8rem;
+   font-weight: 800;
+}
+.news-text{
+  padding-left: 40px;
+  color: #5A5A5D;
+  font-size: 1rem;
+  font-weight: 400;
+}
+ .input{
+   margin: 40px;
+}
+.input input{
+   margin-top: 16px;
+   width: 500px;
+   height: 40px;
+}
+.subscribe{
+   margin-top: 16px;
+   width: 500px;
+   height: 40px;
+   border-radius: 8px;
+   background: #FF5400;
+}
+.news-img{
+  margin-left: 12px;
+}
+.travel{
+  color: #FFF;
+  font-size: 1.8rem;
+  font-weight: 400;
+}
+.btn{
+  color: #FFF;
+  font-size: 2rem;
+  font-weight: 800;
+  border-radius: 16px;
+  background: #FF5400;
+  position: relative;
+  transform: rotate(-19.628deg);
+  bottom: 125px  ;
+  left: 407px;
+}
+
 
 /* responsive styles */
 /* mobile device */
