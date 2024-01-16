@@ -251,12 +251,12 @@ nav li a {
 }
 .input input{
    margin-top: 16px;
-   width: 500px;
+   width: 350px;
    height: 40px;
 }
 .subscribe{
    margin-top: 16px;
-   width: 500px;
+   width: 350px;
    height: 40px;
    border-radius: 8px;
    background: #FF5400;
@@ -279,6 +279,46 @@ nav li a {
   transform: rotate(-19.628deg);
   bottom: 125px  ;
   left: 407px;
+}
+
+/* footer section styles */
+.footer{
+  height: 500px;
+  background: rgba(19, 19, 24, 0.05);
+}
+.footer-content{
+  text-align: center;
+  padding-top: 100px;
+}
+.adventure{
+   display: flex;
+   text-align: center;
+   justify-content: center;
+   color: #131318;
+   font-size: 1.8rem;
+   font-weight: 800;
+
+}
+.adventure img{
+   width: 40px;
+   height: 46px;
+   margin-top: 33px;
+}
+
+.footer-text{
+  color: #5A5A5D;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.footer-end{
+  padding-top: 15px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid rgb(167, 162, 162);
+  width: 80%;
+  margin-left: 110px;
+}
+.end{
+   padding-top: 50px;
 }
 
 
