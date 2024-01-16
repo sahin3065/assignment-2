@@ -147,6 +147,63 @@ nav li a {
   text-align: center;
 }
 
+/* choose styles */
+.choose-content{
+   text-align: center;
+   margin-top: 120px;
+}
+.choose-title{
+  color: #131318;
+  font-size: 2.8rem;
+  font-weight: 800;
+}
+
+.choose-text{
+  color: rgba(19, 19, 24, 0.70);
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+/* card section styles */
+.card{
+   margin: 50px 135px;
+   
+}
+.card-container{
+   display: flex;
+   
+}
+
+.card-content .card-one{
+ width: 600px;
+ height: 284px;
+ border-radius: 16px;
+ border: 1px solid rgba(251, 181, 99, 0.20);
+ background: rgba(251, 181, 99, 0.05);
+ margin-right: 24px;
+ padding-left: 10px;
+}
+.card-content .card-two{
+  width: 600px;
+  height: 284px;
+  border-radius: 16px;
+  border: 1px solid rgba(41, 206, 246, 0.20);
+  background: rgba(41, 206, 246, 0.05);
+  padding-left: 10px;
+}
+.card-content .card-three{
+  width: 600px;
+  height: 284px;
+  border-radius: 16px;
+  border: 1px solid rgba(251, 181, 99, 0.20);
+  background: rgba(251, 181, 99, 0.05);
+  margin-top: 24px;
+  margin-left: 220px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+
 /* responsive styles */
 /* mobile device */
 @media screen and (max-width:576px) {
