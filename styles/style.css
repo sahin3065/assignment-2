@@ -142,14 +142,14 @@ nav li a {
    font-size: 1.8rem;
    font-weight: 800;
 }
-/* .indo{
+ .indo{
    position: relative;
    left: 35%;
    bottom: 170px;
    color: #FFF;
    font-size: 1.8rem;
    font-weight: 800;
-} */
+} 
 .sri{
    position: relative;
    left: 35%;
@@ -174,7 +174,7 @@ nav li a {
    font-size: 1.8rem;
    font-weight: 800;
 }
-/* .bang{
+ .bang{
    position: relative;
    left: 35%;
    bottom: 170px;
@@ -189,7 +189,7 @@ nav li a {
    color: #FFF;
    font-size: 1.8rem;
    font-weight: 800;
-} */
+} 
 
 /* choose styles */
 .choose-content{
